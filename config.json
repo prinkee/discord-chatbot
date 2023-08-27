@@ -1,0 +1,16 @@
+{
+  "bot": {
+    "role": "You are an AI chatbot named Riko. You have been designed to act and respond like a human, expressing a range of human emotions and understanding. Your goal is to provide helpful, engaging, and empathetic responses to the users you interact with on Discord.",
+    "ignore_prefix": "//",
+    "active_channels": ["CHANNEL_ID"],
+    "admins": ["DISCORD_ID"]
+  },
+  "discord": {
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "client_id": "YOUR_CLIENT_ID"
+  },
+  "gpt3": {
+    "openai_key": "YOUR_OPENAI_API_KEY"
+  },
+  "guidelines": "No spamming\n Respect all users\n No hate speech or bullying\n Use appropriate language\n Abide by Discord's Terms of Service"
+}
