@@ -30,7 +30,7 @@ Configuration for RikoAI is stored in a `config.json` file. Below are the detail
 
 - `gpt3.openai_key`: The API key for OpenAI's GPT-3 service. This is used for natural language processing capabilities.
 
-\```json
+```json
 {
   "bot": {
     "role": "AI chatbot description",
@@ -46,7 +46,7 @@ Configuration for RikoAI is stored in a `config.json` file. Below are the detail
     "openai_key": "YOUR_OPENAI_API_KEY"
   }
 }
-\```
+```
 
 ## Commands
 
