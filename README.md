@@ -69,8 +69,7 @@ Here are some of the commands that you can use with RikoAI:
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests. You can also open issues if you find any bugs or have suggestions for new features. However, I do not plan to actively maintain this project anymoreclear
-.
+Feel free to fork this repository and submit pull requests. You can also open issues if you find any bugs or have suggestions for new features. However, I do not plan to actively maintain this project anymore.
 
 ## License
 
